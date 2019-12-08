@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\MiniBlog\WebApplication" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApplication" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebApplication.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="src" t="Include">
+          <e p="Connection" t="Include">
+            <e p="DataBase.cs" t="Include" />
+          </e>
+          <e p="Controller" t="Include">
+            <e p="AppController.cs" t="Include" />
+            <e p="EditPostController.cs" t="Include" />
+            <e p="LogInController.cs" t="Include" />
+            <e p="PostController.cs" t="Include" />
+            <e p="PostListController.cs" t="Include" />
+            <e p="ProfileController.cs" t="Include" />
+          </e>
+          <e p="Model" t="Include">
+            <e p="Comment.cs" t="Include" />
+            <e p="Like.cs" t="Include" />
+            <e p="Post.cs" t="Include" />
+            <e p="Role.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="AppService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebApplication.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebApplication.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\mrtsa\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mrtsa\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WebApplication.-1993591534.00" t="ExcludeRecursive" />
+  </component>
+</project>
